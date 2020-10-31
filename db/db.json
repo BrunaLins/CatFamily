@@ -1,0 +1,40 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "nom": "empadao",
+      "age": "5 ans",
+      "race": "persan",
+      "vivant": true
+    },
+    {
+      "id": 2,
+      "nom": "feijoada",
+      "age": "1 ans",
+      "race": "british",
+      "vivant": true
+    },
+    {
+      "id": 3,
+      "nom": "tacaca",
+      "age": "18 mois",
+      "race": "korat",
+      "vivant": true
+    },
+    {
+      "id": 4,
+      "nom": "pudim ",
+      "age": "18 ans",
+      "race": "toyger",
+      "vivant": false
+    },
+    {
+      "id": 5,
+      "nom": "cocada",
+      "age": "2ans",
+      "race": "manx",
+      "vivant": true
+    }
+ 
+  ]
+}
